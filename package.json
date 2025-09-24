@@ -1,0 +1,22 @@
+{
+  "name": "smart-livestock-backend",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon sync/server.js",
+    "seed": "node src/db.js --seed",
+    "simulate": "node src/simulate.js",
+    "alerts:test": "node utils/alerts.test.js",
+    "sync:once": "node src/sync.js --once"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "pouchdb": "^9.0.0",
+    "pouchdb-find": "^7.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

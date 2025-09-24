@@ -1,0 +1,12 @@
+[
+  {"_id":"animal_001","type":"animal","tag":"A-001","species":"cow","breed":"Holstein","dob":"2023-01-05","synced":true},
+  {"_id":"animal_002","type":"animal","tag":"A-002","species":"cow","breed":"Jersey","dob":"2023-02-12","synced":true},
+  {"_id":"animal_003","type":"animal","tag":"A-003","species":"goat","breed":"Boer","dob":"2023-03-20","synced":true},
+  {"_id":"animal_004","type":"animal","tag":"A-004","species":"sheep","breed":"Merino","dob":"2023-04-18","synced":true},
+  {"_id":"animal_005","type":"animal","tag":"A-005","species":"cow","breed":"Angus","dob":"2023-05-22","synced":true},
+  {"_id":"animal_006","type":"animal","tag":"A-006","species":"goat","breed":"Alpine","dob":"2023-06-30","synced":true},
+  {"_id":"animal_007","type":"animal","tag":"A-007","species":"sheep","breed":"Suffolk","dob":"2023-07-07","synced":true},
+  {"_id":"animal_008","type":"animal","tag":"A-008","species":"cow","breed":"Hereford","dob":"2023-08-14","synced":true},
+  {"_id":"animal_009","type":"animal","tag":"A-009","species":"goat","breed":"Nubian","dob":"2023-09-01","synced":true},
+  {"_id":"animal_010","type":"animal","tag":"A-010","species":"sheep","breed":"Dorper","dob":"2023-10-10","synced":true}
+]
